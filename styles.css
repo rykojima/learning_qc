@@ -7,8 +7,8 @@ body {
 }
 
 header {
-    background-color: #989898;
-    color: #000000;
+    background-color: #666; /* 灰色に変更 */
+    color: #fff;
     padding: 1em 0;
     text-align: center;
 }
